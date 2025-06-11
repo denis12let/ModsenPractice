@@ -8,4 +8,4 @@ const firstNonRepEl = (str) => {
   return null;
 };
 
-console.log(firstNonRepEl('!cscsdsvsv'));
+console.log(firstNonRepEl('huhuh87118ye1'));
